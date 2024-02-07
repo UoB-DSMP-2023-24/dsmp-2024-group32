@@ -1,9 +1,9 @@
 # Group Repository for the Data Science Mini-Project (EMATM0050)
 
 ## Please edit the fields below with your information
-Group Number: 
+Group Number: 32
 
-Problem Assigned: 
+Problem Assigned: C - Lloyds Banking Group
 
-Group Members:
+Group Members: Saket Vishwas Mokashi, Zhou Zhou, Rory Bennett, Ruiqi Sheng
 
